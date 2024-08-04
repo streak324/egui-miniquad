@@ -1,5 +1,9 @@
 # Unreleased
 
+# 0.15.0 - 2024-07-08
+* Update `egui` to `0.28.0`
+* Update `miniquad` to `0.4.0`
+
 # 0.14.0 - 2023-02-08
 * Update egui to `0.21.0`.
 * Fix scroll speed (it was way too fast).
